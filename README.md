@@ -5,7 +5,8 @@ Welcome to the **Developer Deals & Coupons Repository**! This is a community-dri
 ## 🎯 Categories  
 ### 1. 📚 Books  
 - [**Eloquent JavaScript**](https://eloquentjavascript.net/) - 50% off with code **JS50** (Valid until Nov 30, 2024)  
-- [**Clean Code by Robert C. Martin**](https://example.com) - 25% off with code **CLEANDEV**  
+- [**Clean Code by Robert C. Martin**](https://example.com) - 25% off with code **CLEANDEV**
+- [**Unlocking Git: The Beginner’s Blueprint**](https://githubprojects.gumroad.com/l/unlock-git-for-beginners-blueprint) - 40% off with code **BL0MTKG**  
 
 ### 2. 🎓 Courses  
 - [**Udemy**](https://udemy.com) - Black Friday Sale: Up to 90% off on tech courses.  
