@@ -14,7 +14,8 @@ Welcome to the **Developer Deals & Coupons Repository**! This is a community-dri
 
 ### 3. 🛠️ Tools & Software  
 - [**JetBrains IDEs**](https://jetbrains.com) - 20% off all yearly subscriptions with code **DEVTOOLS20**  
-- [**GitKraken**](https://gitkraken.com) - 15% off with code **GITKRK15**  
+- [**GitKraken**](https://gitkraken.com) - 15% off with code **GITKRK15**
+- [**Flux AI**](https://flux1.ai/?utm_source=deals-for-devs) - **15%** off with code **BF5**
 
 ### 4. 🛍️ Other Developer Products  
 - [**DigitalOcean**](https://digitalocean.com) - $100 in credits for new accounts.  
