@@ -13,6 +13,7 @@ Welcome to the **Developer Deals & Coupons Repository**! This is a community-dri
 - [**Pluralsight**](https://pluralsight.com) - Free access for 30 days with code **FREE30**  
 
 ### 3. 🛠️ Tools & Software  
+- [**Kilobat Pro for students**](https://kilobat.app/students) - Free for one year on two Macs; eligible students can request renewal while studying using a school email.
 - [**JetBrains IDEs**](https://jetbrains.com) - 20% off all yearly subscriptions with code **DEVTOOLS20**  
 - [**GitKraken**](https://gitkraken.com) - 15% off with code **GITKRK15**
 - [**Flux AI**](https://flux1.ai/?utm_source=deals-for-devs) - **15%** off with code **BF5**
