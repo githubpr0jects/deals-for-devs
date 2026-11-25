@@ -15,6 +15,7 @@ Welcome to the **Developer Deals & Coupons Repository**! This is a community-dri
 ### 3. 🛠️ Tools & Software  
 - [**JetBrains IDEs**](https://jetbrains.com) - 20% off all yearly subscriptions with code **DEVTOOLS20**  
 - [**GitKraken**](https://gitkraken.com) - 15% off with code **GITKRK15**
+- [**Screenpipe**](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=deals-for-devs) - **20%** off the first year of annual plans (Basic $250 → $200, Business $500 → $400/seat), automatic at checkout, ends Nov 30 2026
 - [**Flux AI**](https://flux1.ai/?utm_source=deals-for-devs) - **15%** off with code **BF5**
 
 ### 4. 🛍️ Other Developer Products  
