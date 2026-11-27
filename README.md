@@ -16,6 +16,7 @@ Welcome to the **Developer Deals & Coupons Repository**! This is a community-dri
 - [**JetBrains IDEs**](https://jetbrains.com) - 20% off all yearly subscriptions with code **DEVTOOLS20**  
 - [**GitKraken**](https://gitkraken.com) - 15% off with code **GITKRK15**
 - [**Flux AI**](https://flux1.ai/?utm_source=deals-for-devs) - **15%** off with code **BF5**
+- [**Context.dev**](https://www.context.dev/pricing) - Web search, scraping, crawling, and extraction APIs: **30% off any new purchase of a paid plan for one year**, automatically applied; no code needed. Valid Nov 27-Dec 1, 2026, ending Dec 2 at 00:00 EST (05:00 UTC).
 
 ### 4. 🛍️ Other Developer Products  
 - [**DigitalOcean**](https://digitalocean.com) - $100 in credits for new accounts.  
